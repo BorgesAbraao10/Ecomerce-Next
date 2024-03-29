@@ -17,8 +17,8 @@ export default async function Home() {
           alt=""
         />
 
-        <div className="absolute bottom-10 rigth-10 h-12 flex items-center gap-2 max-w-[280px] rounded-full border-2 border-zinc-500 bg-black/60 p-1 pl-5">
-          <span className="text-sm truncate">Moletom AB Side</span>
+        <div className="absolute bottom-5 rigth-5 h-12 flex items-center gap-2 max-w-[280px] rounded-full border-2 border-zinc-500 bg-black/60 p-1 pl-5">
+          <span className="text-sm truncate">Moletom AB Grey</span>
           <span className="flex h-full items-center justify-center rounded-full bg-violet-500 px-4 font-semibold">
             R$129
           </span>
@@ -37,8 +37,8 @@ export default async function Home() {
           quality={100}
         />
 
-        <div className="absolute bottom-10 rigth-10 h-12 flex items-center gap-2 max-w-[280px] rounded-full border-2 border-zinc-500 bg-black/60 p-1 pl-5">
-          <span className="text-sm truncate">Moletom AB Side</span>
+        <div className="absolute bottom-5 rigth-5 h-12 flex items-center gap-2 max-w-[280px] rounded-full border-2 border-zinc-500 bg-black/60 p-1 pl-5">
+          <span className="text-sm truncate">Moletom AB Blue</span>
           <span className="flex h-full items-center justify-center rounded-full bg-violet-500 px-4 font-semibold">
             R$129
           </span>
@@ -57,8 +57,8 @@ export default async function Home() {
           quality={100}
         />
 
-        <div className="absolute bottom-10 rigth-10 h-12 flex items-center gap-2 max-w-[280px] rounded-full border-2 border-zinc-500 bg-black/60 p-1 pl-5">
-          <span className="text-sm truncate">Moletom AB Side</span>
+        <div className="absolute bottom-5 rigth-5 h-12 flex items-center gap-2 max-w-[280px] rounded-full border-2 border-zinc-500 bg-black/60 p-1 pl-5">
+          <span className="text-sm truncate">Moletom AB Black</span>
           <span className="flex h-full items-center justify-center rounded-full bg-violet-500 px-4 font-semibold">
             R$129
           </span>
